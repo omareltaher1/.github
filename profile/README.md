@@ -1,38 +1,59 @@
-Hi, I'm Omar 👋
+# Hi, I'm Omar 👋
 
-Data Analyst | Junior Data Engineer
+Data Analyst | Data Engineer
 
 I enjoy building ETL pipelines, analyzing data, and creating business intelligence dashboards using Python, SQL, Apache Spark, Airflow, Databricks, and Power BI.
 
-Tech Stack
+## 🛠 Tech Stack
 
-Python
-SQL
-Apache Spark
-Apache Airflow
-Databricks
-Power BI
-Docker
-Git
+- Python
+- SQL
+- Apache Spark
+- Apache Airflow
+- Databricks
+- Power BI
+- Docker
+- Git
 
-Featured Projects
+## 🚀 Featured Projects
 
-Airflow ETL Pipeline
+Airflow ETL Pipeline [https://github.com/omareltaher1/airflow-ETL-pipeline] 
 
-Customer Behavior Analysis
+Customer Behavior Analysis [https://github.com/omareltaher1/Customer_Behavior_project]
 
-Online Shopping Analytics
+Online Shopping Analytics [https://github.com/omareltaher1/Social-Media-Analytics-Dashboard]
 
-Social Media Analytics
+Social Media Analytics [https://github.com/omareltaher1/Social-Media-Analytics-Dashboard]
 
-Currently Learning
+## About Me
 
-Delta Lake
-Azure Data Factory
-dbt
+I am passionate about building scalable data pipelines,
+analyzing data, and transforming raw datasets into
+actionable business insights.
 
-Reach me
+Currently seeking opportunities as a Data Analyst or
+Junior Data Engineer.
+
+## 📊 GitHub Stats
+
+Top Languages
+
+Contribution Graph
+
+## 📚 Currently Learning
+
+- Delta Lake
+- dbt
+- Azure Data Factory
+
+## 📫 Connect with Me
 
 LinkedIn: https://www.linkedin.com/in/omar-eltaher1/
 
 Email: omareltaher91@gmail.com
+
+⭐ Always learning.
+
+⭐ Always building.
+
+⭐ Open to opportunities.
